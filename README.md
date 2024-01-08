@@ -1,16 +1,1 @@
-# Recipe Blog - Using Node.js and MongoDB
-
-## Create .env file
-Create a .env file to store your MongoDB database credentials
-
-```
-MONGODB_URI = mongodb+srv://<username>:<password>@cluster0.6m5cz.mongodb.net/Recipes?retryWrites=true&w=majority
-```
-
-## Installation
-To run this project, install it locally using npm:
-
-```
-$ npm install
-$ npm start
-```
+![foodblog](https://github.com/prashant41/E-Learning/assets/30230584/ced20227-f450-4348-b664-cb9691dc05a3)
